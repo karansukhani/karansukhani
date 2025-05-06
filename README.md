@@ -6,6 +6,8 @@ Results-driven Application Developer with 1 year of Flutter expertise, skilled i
 
 🌱 **Currently Learning:** GoLang for backend development and scalable microservices.
 
+🎯 **Currently open to new opportunities:** I'm actively looking for roles as a *Software Developer* or *Application Developer*. Let's connect if you're hiring or know of an opportunity!
+
 ## 🧠 Skills & Tools
 
 - **Languages:** Dart, Java (basic), SQL
