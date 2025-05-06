@@ -28,7 +28,7 @@ Results-driven Application Developer with 1 year of Flutter expertise, skilled i
 ### 🌐 IAppSolutions Pvt. Ltd. (Jan 2024 – Apr 2024)  
 **Flutter Developer Intern – Remote**  
 - Built responsive UIs and integrated REST APIs for performance boosts.
-- Squashed bugs and improved user experience on both frontend and backend.
+- Resolved bugs and improved user experience on both frontend and backend.
 - Collaborated remotely using Agile tools and ceremonies.
 
 ## 🎓 Education
@@ -45,7 +45,7 @@ Gujarat Technological University, Ahmedabad – 2024
 - 📧 karan.sukhani27@gmail.com  
 - 📍 Ahmedabad, Gujarat, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/karan-sukhani)  
-- 🌐 [Portfolio](#) *(coming soon!)*
+- 🌐 [Portfolio](#) *(Portfolio site coming soon – stay tuned!)*
 
 ## 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
