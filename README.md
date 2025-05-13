@@ -45,7 +45,7 @@ Gujarat Technological University, Ahmedabad – 2024
 - 📧 karan.sukhani27@gmail.com  
 - 📍 Ahmedabad, Gujarat, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/karan-sukhani)  
-- 🌐 [Portfolio]((https://karan-portfolio-amber.vercel.app))
+- 🌐 [Portfolio](https://karan-portfolio-amber.vercel.app)
 
 ## 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
