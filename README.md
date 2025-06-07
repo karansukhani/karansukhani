@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Karan Sukhani
 
-🚀 **Flutter Developer | Cross-Platform Mobile Enthusiast | Clean Architecture Advocate**
+🚀 **Flutter Developer | Cross-Platform Mobile Enthusiast**
 
 Results-driven Application Developer with 1 year of Flutter expertise, skilled in architecting high-performance, cross-platform mobile solutions using BLoC/Cubit state management, RESTful APIs, Firebase, and CI/CD automation. Proven track record in Agile/Scrum teams—leveraging Git, Jira, TDD, and performance optimisation—to deliver maintainable, scalable code for enterprise clients. Strong communicator experienced in stakeholder collaboration, technical documentation, and mentoring junior engineers. Adaptable to remote or hybrid environments and ready to drive digital transformation initiatives.
 
