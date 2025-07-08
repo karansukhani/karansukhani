@@ -2,7 +2,7 @@
 
 🚀 **Flutter Developer | Cross-Platform Mobile Enthusiast**
 
-Results-driven Application Developer with 1+ year of Flutter expertise, skilled in architecting high-performance, cross-platform mobile solutions using BLoC/Cubit state management, RESTful APIs, Firebase, and CI/CD automation. Proven track record in Agile/Scrum teams—leveraging Git, Jira, TDD, and performance optimisation—to deliver maintainable, scalable code for enterprise clients. Strong communicator experienced in stakeholder collaboration, technical documentation, and mentoring junior engineers. Adaptable to remote or hybrid environments and ready to drive digital transformation initiatives.
+Proactive Software Developer with 1+ years of experience in building scalable, production ready cross-platform applications using Flutter. Strong grasp of problem-solving, ownership, and collaboration in remote Agile teams. Solid understanding of SQL, with a growing interest in backend development and product-driven engineering. Eager to contribute to high-impact fintech solutions in a fast-paced global environment.
 
 🌱 **Currently Learning:** GoLang for backend development and scalable microservices.
 
@@ -10,9 +10,9 @@ Results-driven Application Developer with 1+ year of Flutter expertise, skilled 
 
 ## 🧠 Skills & Tools
 
-- **Languages:** Dart, Java (basic), SQL
+- **Languages:** Dart, Java (basic), SQL, GoLang (basic), Python(basic)
 - **Mobile Development:** Flutter, BLoC, Cubit, Firebase (Auth, Firestore)
-- **Backend Exposure:** Spring Boot, Hibernate, REST APIs, JMS, WebSockets
+- **Backend Exposure:** REST APIs,WebSockets
 - **Architecture:** Clean Architecture, MVC, Modular Design
 - **Tools & Platforms:** Git, GitHub, Bitbucket, Jira, Zoom, Slack, CI/CD
 - **Databases:** PostgreSQL, Firebase Firestore
