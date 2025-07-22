@@ -6,16 +6,16 @@ Proactive Software Developer with 1+ years of experience in building scalable, p
 
 🌱 **Currently Learning:** GoLang for backend development and scalable microservices.
 
-🎯 **Currently open to new opportunities:** I'm actively looking for roles as a *Software Developer* or *Application Developer*. Let's connect if you're hiring or know of an opportunity!
+🎯 **Currently open to new opportunities:** I'm actively looking for roles as a *Software Developer*. Let's connect if you're hiring or know of an opportunity!
 
 ## 🧠 Skills & Tools
 
-- **Languages:** Dart, Java (basic), SQL, GoLang (basic), Python(basic)
+- **Languages:** Dart, Java (basic), SQL, GoLang, Python(basic)
 - **Mobile Development:** Flutter, BLoC, Cubit, Firebase (Auth, Firestore)
-- **Backend Exposure:** REST APIs,WebSockets
+- **Backend Exposure:** Go modules, REST APIs, WebSockets, PostgreSQL integration, JSON handling, Gorilla Mux, net/http, middleware, API versioning, error handling
 - **Architecture:** Clean Architecture, MVC, Modular Design
-- **Tools & Platforms:** Git, GitHub, Bitbucket, Jira, Zoom, Slack, CI/CD
-- **Databases:** PostgreSQL, Firebase Firestore
+- **Tools & Platforms:** Git, GitHub, Bitbucket, Jira, Zoom, Slack, CI/CD, Docker (basics)
+- **Databases:** PostgreSQL (CRUD, queries, Go-pg/pgx), Firebase Firestore
 
 ## 💼 Work Experience
 
