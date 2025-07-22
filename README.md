@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Karan Sukhani
 
-🚀 **Flutter Developer | Cross-Platform Mobile Enthusiast**
+🚀 **Software Engineer | Flutter Specialist | Aspiring Golang Backend Developer**
 
-Proactive Software Developer with 1+ years of experience in building scalable, production ready cross-platform applications using Flutter. Strong grasp of problem-solving, ownership, and collaboration in remote Agile teams. Solid understanding of SQL, with a growing interest in backend development and product-driven engineering. Eager to contribute to high-impact fintech solutions in a fast-paced global environment.
+I’m a results-driven Software Engineer with 1.5+ years of experience building and delivering robust cross-platform mobile solutions using Flutter. I specialize in architecting modular, scalable systems with BLoC and Cubit, and I’m actively transitioning into backend development with a strong focus on Golang, microservices, and system design.
+
+I thrive in Agile, remote-first environments where ownership, velocity, and clean architecture are key. Whether it's optimizing mobile performance or structuring backend APIs, I bring product thinking and engineering depth to every stage of development.
 
 🌱 **Currently Learning:** GoLang for backend development and scalable microservices.
 
